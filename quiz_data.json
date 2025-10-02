@@ -4,7 +4,7 @@
     "pk": 1,
     "fields": {
       "title": "플러터의 타입이 아닌 것은?",
-      "body": "1.String/2.bool/3.int/4.Num",
+      "body": "String/bool/int/Num",
       "answer": 4
     }
   },
@@ -13,7 +13,7 @@
     "pk": 2,
     "fields": {
       "title": "플러터의 언어는?",
-      "body": "1.python/2.dart/3.c/4.java",
+      "body": "python/dart/c/java",
       "answer": 2
     }
   },
@@ -22,7 +22,7 @@
     "pk": 3,
     "fields": {
       "title": "플러터를 만든 곳은?",
-      "body": "1.google/2.naver/3.yahoo/4.netflix",
+      "body": "google/naver/yahoo/netflix",
       "answer": 1
     }
   },
@@ -31,7 +31,7 @@
     "pk": 4,
     "fields": {
       "title": "장고의 기본 데이터베이스는?",
-      "body": "1.MySQL/2.PostgreSQL/3.Oracle/4.SQLite",
+      "body": "MySQL/PostgreSQL/Oracle/SQLite",
       "answer": 4
     }
   },
@@ -40,7 +40,7 @@
     "pk": 5,
     "fields": {
       "title": "REST API에서 데이터 조회에 사용하는 HTTP 메서드는?",
-      "body": "1.POST/2.GET/3.PUT/4.DELETE",
+      "body": "POST/GET/PUT/DELETE",
       "answer": 2
     }
   },
@@ -49,7 +49,7 @@
     "pk": 6,
     "fields": {
       "title": "PythonAnywhere에서 가상 환경 생성 명령어는?",
-      "body": "1.virtualenv/2.mkvirtualenv/3.conda create/4.pip install venv",
+      "body": "virtualenv/mkvirtualenv/conda create/pip install venv",
       "answer": 2
     }
   },
@@ -58,7 +58,7 @@
     "pk": 7,
     "fields": {
       "title": "플러터에서 UI를 구성하는 최소 단위는?",
-      "body": "1.Component/2.Element/3.Widget/4.View",
+      "body": "Component/Element/Widget/View",
       "answer": 3
     }
   },
@@ -67,7 +67,7 @@
     "pk": 8,
     "fields": {
       "title": "장고에서 데이터베이스 스키마 변경 시 사용하는 명령어는?",
-      "body": "1.createschema/2.makemigrations/3.syncdb/4.build",
+      "body": "createschema/makemigrations/syncdb/build",
       "answer": 2
     }
   },
@@ -76,7 +76,7 @@
     "pk": 9,
     "fields": {
       "title": "DRF에서 모델 데이터를 JSON으로 변환하는 객체는?",
-      "body": "1.Adapter/2.Mapper/3.Serializer/4.Processor",
+      "body": "Adapter/Mapper/Serializer/Processor",
       "answer": 3
     }
   },
@@ -85,7 +85,7 @@
     "pk": 10,
     "fields": {
       "title": "플러터에서 비동기 작업을 처리하는 키워드는?",
-      "body": "1.sync/2.async/3.await/4.yield",
+      "body": "sync/async/await/yield",
       "answer": 2
     }
   },
@@ -94,7 +94,7 @@
     "pk": 11,
     "fields": {
       "title": "장고의 개발 서버 실행 명령어는?",
-      "body": "1.startserver/2.runserver/3.devserver/4.launchserver",
+      "body": "startserver/runserver/devserver/launchserver",
       "answer": 2
     }
   },
@@ -103,7 +103,7 @@
     "pk": 12,
     "fields": {
       "title": "장고에서 앱을 설정 파일에 등록하는 곳은?",
-      "body": "1.APP_LIST/2.INSTALLED_APPS/3.MODULES/4.CONFIG_APPS",
+      "body": "APP_LIST/INSTALLED_APPS/MODULES/CONFIG_APPS",
       "answer": 2
     }
   },
@@ -112,7 +112,7 @@
     "pk": 13,
     "fields": {
       "title": "Postman의 주된 용도는?",
-      "body": "1.코드 편집/2.API 테스트/3.데이터베이스 백업/4.웹 브라우징",
+      "body": "코드 편집/API 테스트/데이터베이스 백업/웹 브라우징",
       "answer": 2
     }
   },
@@ -121,7 +121,7 @@
     "pk": 14,
     "fields": {
       "title": "장고에서 템플릿 파일이 위치해야 하는 폴더명은?",
-      "body": "1.html/2.tpl/3.templates/4.views",
+      "body": "html/tpl/templates/views",
       "answer": 3
     }
   },
@@ -130,7 +130,7 @@
     "pk": 15,
     "fields": {
       "title": "플러터에서 StatelessWidget의 특징은?",
-      "body": "1.상태를 가질 수 있다/2.상태를 변경할 수 없다/3.데이터를 가질 수 없다/4.항상 애니메이션을 가진다",
+      "body": "상태를 가질 수 있다/상태를 변경할 수 없다/데이터를 가질 수 없다/항상 애니메이션을 가진다",
       "answer": 2
     }
   },
@@ -139,7 +139,7 @@
     "pk": 16,
     "fields": {
       "title": "장고에서 데이터베이스 연결 정보를 설정하는 파일은?",
-      "body": "1.db.conf/2.settings.py/3.database.ini/4.config.py",
+      "body": "db.conf/settings.py/database.ini/config.py",
       "answer": 2
     }
   },
@@ -148,7 +148,7 @@
     "pk": 17,
     "fields": {
       "title": "DRF에서 뷰 함수를 API 뷰로 만들어주는 데코레이터는?",
-      "body": "1.@view_api/2.@rest_api/3.@api_view/4.@drf_view",
+      "body": "@view_api/@rest_api/@api_view/@drf_view",
       "answer": 3
     }
   },
@@ -157,7 +157,7 @@
     "pk": 18,
     "fields": {
       "title": "플러터에서 UI를 업데이트하는 함수는?",
-      "body": "1.refreshUI/2.updateView/3.setState/4.rebuild",
+      "body": "refreshUI/updateView/setState/rebuild",
       "answer": 3
     }
   },
@@ -166,7 +166,7 @@
     "pk": 19,
     "fields": {
       "title": "배포 환경에서 DEBUG는 무엇으로 설정해야 하는가?",
-      "body": "1.True/2.False/3.Development/4.Production",
+      "body": "True/False/Development/Production",
       "answer": 2
     }
   },
@@ -175,7 +175,7 @@
     "pk": 20,
     "fields": {
       "title": "장고의 URL 라우팅을 담당하는 파일은?",
-      "body": "1.views.py/2.urls.py/3.router.py/4.mapping.py",
+      "body": "views.py/urls.py/router.py/mapping.py",
       "answer": 2
     }
   },
@@ -184,7 +184,7 @@
     "pk": 21,
     "fields": {
       "title": "Postman에서 데이터 생성을 요청하는 메서드는?",
-      "body": "1.GET/2.POST/3.PUT/4.PATCH",
+      "body": "GET/POST/PUT/PATCH",
       "answer": 2
     }
   },
@@ -193,7 +193,7 @@
     "pk": 22,
     "fields": {
       "title": "플러터 앱에서 장고 API를 호출하기 위해 사용하는 패키지는?",
-      "body": "1.dio/2.http/3.url/4.api_call",
+      "body": "dio/http/url/api_call",
       "answer": 2
     }
   },
@@ -202,7 +202,7 @@
     "pk": 23,
     "fields": {
       "title": "장고에서 정적 파일을 모으는 명령어는?",
-      "body": "1.gatherstatic/2.makestatic/3.collectstatic/4.findstatic",
+      "body": "gatherstatic/makestatic/collectstatic/findstatic",
       "answer": 3
     }
   },
@@ -211,7 +211,7 @@
     "pk": 24,
     "fields": {
       "title": "PythonAnywhere 웹 앱과 장고를 연결하는 인터페이스는?",
-      "body": "1.TCP/2.HTTP/3.WSGI/4.REST",
+      "body": "TCP/HTTP/WSGI/REST",
       "answer": 3
     }
   },
@@ -220,7 +220,7 @@
     "pk": 25,
     "fields": {
       "title": "장고 모델에서 데이터 구조를 정의하는 파일은?",
-      "body": "1.schemas.py/2.data.py/3.models.py/4.tables.py",
+      "body": "schemas.py/data.py/models.py/tables.py",
       "answer": 3
     }
   },
@@ -229,7 +229,7 @@
     "pk": 26,
     "fields": {
       "title": "플러터의 패키지 관리 파일 이름은?",
-      "body": "1.dependencies.yaml/2.package.json/3.pubspec.yaml/4.flutter.ini",
+      "body": "dependencies.yaml/package.json/pubspec.yaml/flutter.ini",
       "answer": 3
     }
   },
@@ -238,7 +238,7 @@
     "pk": 27,
     "fields": {
       "title": "Git 저장소의 코드를 서버로 가져오는 명령어는?",
-      "body": "1.git push/2.git pull/3.git fetch/4.git clone",
+      "body": "git push/git pull/git fetch/git clone",
       "answer": 2
     }
   },
@@ -247,7 +247,7 @@
     "pk": 28,
     "fields": {
       "title": "장고에서 데이터베이스의 특정 레코드를 조회하는 메서드는?",
-      "body": "1.get_object/2.search/3.filter/4.find",
+      "body": "get_object/search/filter/find",
       "answer": 3
     }
   },
@@ -256,7 +256,7 @@
     "pk": 29,
     "fields": {
       "title": "플러터에서 동적인 상태를 가질 수 있는 위젯은?",
-      "body": "1.StatelessWidget/2.StatefulWidget/3.Container/4.Text",
+      "body": "StatelessWidget/StatefulWidget/Container/Text",
       "answer": 2
     }
   },
@@ -265,7 +265,7 @@
     "pk": 30,
     "fields": {
       "title": "Postman에서 데이터 삭제를 요청하는 메서드는?",
-      "body": "1.CLEAR/2.REMOVE/3.DELETE/4.ERASE",
+      "body": "CLEAR/REMOVE/DELETE/ERASE",
       "answer": 3
     }
   },
@@ -274,7 +274,7 @@
     "pk": 31,
     "fields": {
       "title": "장고 뷰에서 요청 객체를 받는 매개변수 이름은?",
-      "body": "1.response/2.data/3.req/4.request",
+      "body": "response/data/req/request",
       "answer": 4
     }
   },
@@ -283,7 +283,7 @@
     "pk": 32,
     "fields": {
       "title": "플러터에서 UI를 빌드하는 메서드 이름은?",
-      "body": "1.draw/2.render/3.build/4.create",
+      "body": "draw/render/build/create",
       "answer": 3
     }
   },
@@ -292,7 +292,7 @@
     "pk": 33,
     "fields": {
       "title": "파이썬에서 가상 환경을 활성화하는 표준 명령은?",
-      "body": "1.start venv/2.activate/3.source activate/4.source venv/bin/activate",
+      "body": "start venv/activate/source activate/source venv/bin/activate",
       "answer": 4
     }
   },
@@ -301,7 +301,7 @@
     "pk": 34,
     "fields": {
       "title": "장고 모델 필드에서 문자열 길이를 제한하는 속성은?",
-      "body": "1.length/2.max_length/3.size/4.char_size",
+      "body": "length/max_length/size/char_size",
       "answer": 2
     }
   },
@@ -310,7 +310,7 @@
     "pk": 35,
     "fields": {
       "title": "플러터에서 위젯을 중앙에 배치하는 위젯은?",
-      "body": "1.Align/2.Center/3.Middle/4.Position",
+      "body": "Align/Center/Middle/Position",
       "answer": 2
     }
   },
@@ -319,7 +319,7 @@
     "pk": 36,
     "fields": {
       "title": "Postman에서 200 OK는 어떤 의미인가?",
-      "body": "1.요청 오류/2.서버 오류/3.요청 성공/4.접속 실패",
+      "body": "요청 오류/서버 오류/요청 성공/접속 실패",
       "answer": 3
     }
   },
@@ -328,7 +328,7 @@
     "pk": 37,
     "fields": {
       "title": "장고 쉘로 진입하는 명령어는?",
-      "body": "1.python manage.py console/2.python manage.py shell/3.python manage.py open/4.python manage.py terminal",
+      "body": "python manage.py console/python manage.py shell/python manage.py open/python manage.py terminal",
       "answer": 2
     }
   },
@@ -337,7 +337,7 @@
     "pk": 38,
     "fields": {
       "title": "장고에서 기본적으로 제공하는 관리자 페이지 URL은?",
-      "body": "1./manager/2./control/3./admin/4./settings/",
+      "body": "/manager/control/admin/settings/",
       "answer": 3
     }
   },
@@ -346,7 +346,7 @@
     "pk": 39,
     "fields": {
       "title": "플러터에서 리스트 형태의 위젯을 수직으로 배치하는 위젯은?",
-      "body": "1.Row/2.Column/3.ListView/4.Container",
+      "body": "Row/Column/ListView/Container",
       "answer": 2
     }
   },
@@ -355,7 +355,7 @@
     "pk": 40,
     "fields": {
       "title": "DRF에서 뷰셋(ViewSet)을 라우팅하는 데 사용되는 클래스는?",
-      "body": "1.Router/2.ViewRouter/3.DefaultRouter/4.URLRouter",
+      "body": "Router/ViewRouter/DefaultRouter/URLRouter",
       "answer": 3
     }
   },
@@ -364,7 +364,7 @@
     "pk": 41,
     "fields": {
       "title": "장고에서 SECRET_KEY의 역할은?",
-      "body": "1.DB 암호화/2.세션 및 쿠키 보호/3.사용자 비밀번호 저장/4.파일 권한 설정",
+      "body": "DB 암호화/세션 및 쿠키 보호/사용자 비밀번호 저장/파일 권한 설정",
       "answer": 2
     }
   },
@@ -373,7 +373,7 @@
     "pk": 42,
     "fields": {
       "title": "PythonAnywhere의 웹 앱 리로드 버튼을 누르는 이유는?",
-      "body": "1.캐시 삭제/2.DB 백업/3.서버 재시작/4.디스크 정리",
+      "body": "캐시 삭제/DB 백업/서버 재시작/디스크 정리",
       "answer": 3
     }
   },
@@ -382,7 +382,7 @@
     "pk": 43,
     "fields": {
       "title": "REST API에서 데이터 수정에 사용하는 HTTP 메서드는?",
-      "body": "1.GET/2.POST/3.PATCH/4.HEAD",
+      "body": "GET/POST/PATCH/HEAD",
       "answer": 3
     }
   },
@@ -391,7 +391,7 @@
     "pk": 44,
     "fields": {
       "title": "플러터에서 앱의 메인 시작점 함수는?",
-      "body": "1.mainApp/2.runApp/3.startApp/4.launchApp",
+      "body": "mainApp/runApp/startApp/launchApp",
       "answer": 2
     }
   },
@@ -400,7 +400,7 @@
     "pk": 45,
     "fields": {
       "title": "장고에서 URL 패턴을 정의할 때 사용하는 함수는?",
-      "body": "1.route/2.path/3.url/4.address",
+      "body": "route/path/url/address",
       "answer": 2
     }
   },
@@ -409,7 +409,7 @@
     "pk": 46,
     "fields": {
       "title": "파이썬에서 패키지 목록을 파일로 저장하는 명령어는?",
-      "body": "1.pip list > file.txt/2.pip save > file.txt/3.pip freeze > file.txt/4.pip export > file.txt",
+      "body": "pip list > file.txt/pip save > file.txt/pip freeze > file.txt/pip export > file.txt",
       "answer": 3
     }
   },
@@ -418,7 +418,7 @@
     "pk": 47,
     "fields": {
       "title": "Postman에서 404 Not Found의 의미는?",
-      "body": "1.서버 다운/2.인터넷 연결 끊김/3.요청한 주소 없음/4.데이터 형식 오류",
+      "body": "서버 다운/인터넷 연결 끊김/요청한 주소 없음/데이터 형식 오류",
       "answer": 3
     }
   },
@@ -427,7 +427,7 @@
     "pk": 48,
     "fields": {
       "title": "플러터에서 레이아웃을 잡을 때 사용하는 두 가지 주요 위젯은?",
-      "body": "1.Image, Text/2.Container, Row/3.Row, Column/4.Scaffold, Appbar",
+      "body": "Image, Text/Container, Row/Row, Column/Scaffold, Appbar",
       "answer": 3
     }
   },
@@ -436,7 +436,7 @@
     "pk": 49,
     "fields": {
       "title": "장고의 슬로건 'Batteries included'의 의미는?",
-      "body": "1.성능이 빠르다/2.기본 기능이 내장되어 있다/3.배터리 소모가 적다/4.모든 것이 최신이다",
+      "body": "성능이 빠르다/기본 기능이 내장되어 있다/배터리 소모가 적다/모든 것이 최신이다",
       "answer": 2
     }
   },
@@ -445,7 +445,7 @@
     "pk": 50,
     "fields": {
       "title": "PythonAnywhere에서 Git으로 코드를 가져오는 명령어는?",
-      "body": "1.git pull/2.git clone/3.git copy/4.git sync",
+      "body": "git pull/git clone/git copy/git sync",
       "answer": 2
     }
   }
